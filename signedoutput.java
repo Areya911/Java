@@ -12,7 +12,5 @@ public class signedoutput {
     else{
       System.out.print("+"+a);
     }
-}
-
-    
+}    
 }
